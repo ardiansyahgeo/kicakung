@@ -309,7 +309,7 @@ new ol.layer.Group({
             title: 'KAWASAN INDUSTRI CAKUNG',
             fold: 'close',
             layers: [
-lyr_wilayah_ketinggian_RGB_13,lyr_PenutupLahan_6,lyr_Bangunan_7,lyr_KawasanIndustriCakung_8,lyr_kontur_9,
+lyr_wilayah_ketinggian_RGB_13,lyr_PenutupLahan_6,lyr_Bangunan_7,lyr_KawasanIndustriCakung_8,lyr_kontur_9,lyr_WaktuTempuhMenujuKawasan_4,
 ]}),
 
 new ol.layer.Group({
